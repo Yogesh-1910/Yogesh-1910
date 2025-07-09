@@ -1,16 +1,10 @@
-<!-- 
-Hi Yogesh! This is the updated README without the dedicated projects table.
-Remember to pin your best repositories directly on your GitHub profile page
-by clicking "Customize your pins".
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Yogesh S
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" width="30"/>
   </h1>
-  <h3>A passionate AI/ML Engineer and Full Stack Developer from Bengaluru, India. 🇮🇳</h3>
+  <h3>A passionate AI/ML Aspirant and Full Stack Developer from Bengaluru, India. 🇮🇳</h3>
   <p>I'm a dedicated AIML student focused on building intelligent, data-driven solutions and robust applications.</p>
   <p>
     <a href="https://www.linkedin.com/in/yogeshsiddalingaiah/">
@@ -31,10 +25,9 @@ by clicking "Customize your pins".
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a **Sign Language to Text/Speech Translator** and a **Skin Condition Analyzer App**.
-- 🌱 I’m currently diving deep into **Deep Learning Architectures** and **Full Stack Development** with the MERN stack.
+- 🔭 I’m currently working on a **Personlised finance Manager** and a **Skin Condition Analyzer App**.
+- 🌱 I’m currently diving into **Deep Learning Architectures** and **Full Stack Development**. 
 - 👯 I’m looking to collaborate on open-source **AI/ML or Web Development projects**.
-- 🤔 I’m looking for help with advanced **DevOps practices**.
 - 💬 Ask me about **Python, Machine Learning, React, and Data Structures**.
 
 ---
@@ -63,8 +56,9 @@ Here are the technologies and tools I work with:
 
 <p align="center">
   <strong>Programming Languages</strong><br/>
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+<!--   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a> -->
+   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
 </p>
 
 <p align="center">
@@ -72,6 +66,7 @@ Here are the technologies and tools I work with:
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/></a>
 </p>
 
 ---
