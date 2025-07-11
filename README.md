@@ -23,12 +23,12 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🔭 I’m currently working on a **Personlised finance Manager** and a **Skin Condition Analyzer App**.
-- 🌱 I’m currently diving into **Deep Learning Architectures** and **Full Stack Development**. 
-- 👯 I’m looking to collaborate on open-source **AI/ML or Web Development projects**.
-- 💬 Ask me about **Python, Machine Learning, React, and Data Structures**.
+-  I’m currently working on a **Personlised finance Manager** and a **Skin Condition Analyzer App**.
+-  I’m currently diving into **Deep Learning Architectures** and **Full Stack Development**. 
+-  I’m looking to collaborate on open-source **AI/ML or Web Development projects**.
+-  Ask me about **Python, Machine Learning, React, and Data Structures**.
 
 ---
 
